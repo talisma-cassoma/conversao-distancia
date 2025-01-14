@@ -6,3 +6,12 @@
 
 - [x] Realize testes básicos na aplicação para verificar a funcionalidade de conversão de métricas.
     <img src="assets/web_app.png">
+
+    link para imagem : https://hub.docker.com/repository/docker/talisma/conversao-distancia/general
+    
+
+    comando para baixar da imagem  
+    
+    ```bash
+    docker pull talisma/conversao-distancia:latest
+    ```
